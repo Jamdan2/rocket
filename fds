@@ -1,0 +1,9 @@
+
+fn main() {
+
+}
+
+data Person (
+  name: struct
+  age:
+)
